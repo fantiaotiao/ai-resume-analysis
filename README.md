@@ -1,6 +1,6 @@
 # ai-resume-analysis
 # AI赋能的智能简历分析系统
-本人前端背景、后端零基础，基于Python+FastAPI+Vue开发的智能简历分析系统，完成笔试所有必选功能的本地实现，代码适配阿里云Serverless部署规范。
+本人前端背景、后端零基础，基于Python+FastAPI+Vue开发的智能简历分析系统，代码适配阿里云Serverless部署规范。
 
 ## 一、开发背景说明
 - 核心能力：熟练掌握前端开发，Python后端零基础；
